@@ -3049,7 +3049,9 @@
 
             </td>
 
-            <td><label class="control-label" for="egresoanu36"></label>
+            <td>
+                
+                <label class="control-label" for="egresoanu36"></label>
 
                 <div class="input-prepend">
 
@@ -3058,9 +3060,16 @@
                     <input name="egresoanu36" class="input-small money" value="<?php echo repoblar_texto("egresoanu36", "totalegreso_adeudohipoteanual", $info); ?>" id="anual" type="text" placeholder="0.00" />
 
                 </div>
+                
 
             </td>
 
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td><button type='button' class='btn btn-info btn-small' id='calcularAnual'>Calcular Anual</button></td>
         </tr>
 
 
@@ -3234,6 +3243,21 @@
         $('#sumarAnual').click(function(){
             $('.sumarAnual').keyup();
         });*/
+
+        $('#calcularAnual').click(function(){
+            //alert('clicked');
+            $('.multiplicar').each(function(){
+                var nombre,nombre2,numero,numero2;
+                nombre = $(this).attr('name');
+                numero = $(this).val().replace(/\,/g,'');
+                nombre2 = nombre.replace(/\men/g,'anu');
+
+                numero = parseFloat(numero);
+                numero2 = numero * 12;
+                $('input[name="'+nombre2+'"]').val(number_format(numero2,2));
+            });
+            $('.suma').keyup();
+        });
 
     });
 
