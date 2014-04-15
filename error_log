@@ -1,0 +1,104 @@
+[28-Nov-2012 18:20:37 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:21:09 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:01 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:04 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:05 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:13 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:15 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:16 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:17 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:17 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:17 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:18 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:21 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 18:22:44 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/finemsis/public_html/sistema/finem/views/expediente_view.php on line 15
+[28-Nov-2012 19:22:40 UTC] PHP Fatal error:  Class 'Ciclo_model' not found in /home/finemsis/public_html/sistema/system/core/Loader.php on line 303
+[28-Nov-2012 19:25:54 UTC] PHP Fatal error:  Class 'Ciclo_model' not found in /home/finemsis/public_html/sistema/system/core/Loader.php on line 303
+[28-Nov-2012 19:56:55 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/ciclo_model.php on line 100
+[28-Nov-2012 19:56:57 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/ciclo_model.php on line 100
+[28-Nov-2012 19:58:12 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/ciclo_model.php on line 98
+[28-Nov-2012 20:23:25 UTC] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/finemsis/public_html/sistema/finem/views/ciclo_view.php on line 30
+[28-Nov-2012 20:23:27 UTC] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/finemsis/public_html/sistema/finem/views/ciclo_view.php on line 30
+[28-Nov-2012 22:48:47 UTC] PHP Fatal error:  Class 'Producto_model' not found in /home/finemsis/public_html/sistema/system/core/Loader.php on line 303
+[28-Nov-2012 23:13:10 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 104
+[28-Nov-2012 23:13:13 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 104
+[28-Nov-2012 23:13:31 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:34 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:36 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:40 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:41 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:43 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:44 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:13:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 104
+[28-Nov-2012 23:14:03 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 104
+[28-Nov-2012 23:14:40 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:14:41 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:14:43 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:14:45 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:14:49 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:14:53 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:14:57 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:15:34 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:15:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 101
+[28-Nov-2012 23:15:36 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/finemsis/public_html/sistema/finem/models/producto_model.php on line 94
+[28-Nov-2012 23:15:37 UTC] PHP Fatal error:  Class 'Producto_model' not found in /home/finemsis/public_html/sistema/system/core/Loader.php on line 303
+[28-Nov-2012 23:31:38 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:31:40 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:31:56 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:31:58 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:32:23 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:32:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:32:37 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:32:40 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 106
+[28-Nov-2012 23:33:28 UTC] PHP Fatal error:  Can't use function return value in write context in /home/finemsis/public_html/sistema/finem/views/universidad_view.php on line 114
+[29-Nov-2012 22:09:55 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/controllers/campus.php on line 98
+[30-Nov-2012 19:28:28 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 887
+[30-Nov-2012 20:05:54 UTC] PHP Fatal error:  Call to undefined method Universidad_model::getuniversidadcampus() in /home/finemsis/public_html/sistema/finem/controllers/expediente.php on line 69
+[30-Nov-2012 20:10:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:10:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:12:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:12:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:12:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:13:17 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 586
+[30-Nov-2012 20:16:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:16:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:17:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 28
+[30-Nov-2012 20:18:12 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 75
+[30-Nov-2012 20:20:49 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 354
+[30-Nov-2012 20:29:47 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 827
+[30-Nov-2012 20:30:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 78
+[30-Nov-2012 23:34:34 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/finemsis/public_html/sistema/system/database/DB_active_rec.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/finemsis/public_html/sistema/system/database/DB.php on line 125
+[30-Nov-2012 23:38:18 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/finemsis/public_html/sistema/system/database/DB_active_rec.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/finemsis/public_html/sistema/system/database/DB.php on line 125
+[30-Nov-2012 23:38:21 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/finemsis/public_html/sistema/system/database/DB_active_rec.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/finemsis/public_html/sistema/system/database/DB.php on line 125
+[03-Dec-2012 12:08:36 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 456
+[04-Dec-2012 11:57:29 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/finemsis/public_html/sistema/finem/views/seccion_view.php on line 1656
+[04-Dec-2012 14:56:16 America/New_York] PHP Parse error:  syntax error, unexpected T_FOR, expecting ')' in /home/finemsis/public_html/sistema/finem/config/form_validation.php on line 286
+[04-Dec-2012 17:17:42 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 927
+[04-Dec-2012 17:17:51 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 927
+[04-Dec-2012 17:18:07 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 927
+[04-Dec-2012 17:19:09 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:20:59 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:22:14 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:37:27 America/New_York] PHP Fatal error:  Call to undefined function seta_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:38:01 America/New_York] PHP Fatal error:  Call to undefined function seta_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:38:07 America/New_York] PHP Fatal error:  Call to undefined function seta_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:42:18 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/finemsis/public_html/sistema/finem/libraries/MY_Form_validation.php on line 9
+[04-Dec-2012 17:42:20 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/finemsis/public_html/sistema/finem/libraries/MY_Form_validation.php on line 9
+[04-Dec-2012 17:54:51 America/New_York] PHP Fatal error:  Call to undefined function set_checkbox1() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 17:57:41 America/New_York] PHP Fatal error:  Call to undefined function poner_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:06:47 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:10:35 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:10:40 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:11:47 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:11:53 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:12:07 America/New_York] PHP Fatal error:  Call to undefined function advance_checkbox() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:13:54 America/New_York] PHP Fatal error:  Call to undefined function advance_caja() in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 901
+[04-Dec-2012 18:24:37 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/finemsis/public_html/sistema/system/libraries/Form_validation.php on line 877
+[04-Dec-2012 18:24:39 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/finemsis/public_html/sistema/system/libraries/Form_validation.php on line 877
+[04-Dec-2012 18:24:41 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/finemsis/public_html/sistema/system/libraries/Form_validation.php on line 877
+[04-Dec-2012 18:33:00 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/finemsis/public_html/sistema/system/libraries/Form_validation.php on line 876
+[04-Dec-2012 18:33:02 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/finemsis/public_html/sistema/system/libraries/Form_validation.php on line 876
+[05-Dec-2012 11:10:49 America/New_York] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/finemsis/public_html/sistema/finem/views/expediente/solicitud_view.php on line 582
+[05-Dec-2012 14:11:12 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/finemsis/public_html/sistema/finem/controllers/expediente.php on line 111
+[05-Dec-2012 14:11:15 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/finemsis/public_html/sistema/finem/controllers/expediente.php on line 111
+[05-Dec-2012 14:11:24 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/finemsis/public_html/sistema/finem/controllers/expediente.php on line 111
